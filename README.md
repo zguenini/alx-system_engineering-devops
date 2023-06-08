@@ -12,5 +12,5 @@ The repository consists of all the subject projects completed during my enrollme
 
 The repository includes the following projects:
 
-- [0x00. Shell, basics] (./0x00-Shell, basics) This section covers the fundamentals of working with the shell in Linux. It introduces basic commands, scripting, and navigation within the shell environment.
-- [0x01: Linux Permissions] (./0x01-Linux Permissions) In this section, we explore Linux permissions and access control. Topics include file permissions, ownership, groups, and how to manage and modify permissions effectively.
+- [0x00. Shell, basics] (./ 0x00-Shell, basics) This section covers the fundamentals of working with the shell in Linux. It introduces basic commands, scripting, and navigation within the shell environment.
+- [0x01: Linux Permissions] (./ 0x01-Linux Permissions) In this section, we explore Linux permissions and access control. Topics include file permissions, ownership, groups, and how to manage and modify permissions effectively.
