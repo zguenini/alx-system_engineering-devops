@@ -12,5 +12,5 @@ The repository consists of all the subject projects completed during my enrollme
 
 The repository includes the following projects:
 
-- [0x00. Shell, basics] (https://github.com/zguenini/alx-system_engineering-devops/tree/master/0x00-shell_basics) This section covers the fundamentals of working with the shell in Linux. It introduces basic commands, scripting, and navigation within the shell environment.
-- [0x01: Linux Permissions] (https://github.com/zguenini/alx-system_engineering-devops/tree/master/0x01-shell_permissions) In this section, we explore Linux permissions and access control. Topics include file permissions, ownership, groups, and how to manage and modify permissions effectively.
+- [0x00. Shell, basics](https://github.com/zguenini/alx-system_engineering-devops/tree/master/0x00-shell_basics) This section covers the fundamentals of working with the shell in Linux. It introduces basic commands, scripting, and navigation within the shell environment.
+- [0x01: Linux Permissions](./0x01-shell_permissions) In this section, we explore Linux permissions and access control. Topics include file permissions, ownership, groups, and how to manage and modify permissions effectively.
