@@ -27,4 +27,4 @@
 101. [Clean Emacs](./101-clean_emacs) A script that deletes all files in the current directory that end with the character `~`.
 102. [Tree](./102-tree) A script that creates the directory `welcome/`, `welcome/to/` and `welcome/to/welcome/to/school`.
 103. [Life is a series of commas, not periods](./103-commas) A script that lists all the files and directories of the current directory separated by commas `,`.
-104. [File type: School](./school.mgc) Create a magic file 'school.mgc' that can be used with the command 'file' to detect 'School' data files. 'School' data files always contain the string 'SCHOOL' at offset 0.
+104. [File type: School](./school.mgc) Create a magic file `school.mgc` that can be used with the command `file` to detect `School` data files. `School` data files always contain the string `SCHOOL` at offset 0.
