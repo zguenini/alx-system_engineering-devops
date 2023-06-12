@@ -55,7 +55,7 @@
     - The listing should end with a new line. 
     - You are not allowed to use `basename`, `grep`, `egrep`, `fgrep` or `rgrep`. 
 25. [Acrostic](./102-acrostic) : An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. [Read more](https://en.wikipedia.org/wiki/Acrostic).
-Create a script that decodes acrostics that use the first letter of each line.
+* Create a script that decodes acrostics that use the first letter of each line.
     - The **‘decoded’** message has to end with a new line.
     - You are not allowed to use `grep`, `egrep`, `fgrep` or `rgrep`.
 103. [The biggest fan](./103-the_biggest_fan) : Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
