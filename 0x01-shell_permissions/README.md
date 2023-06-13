@@ -1,4 +1,4 @@
-# 0x01 Shell Permissions
+# 0x01. Shell, permissions
 
 ## Resources
 
@@ -20,7 +20,7 @@
 11. [Directories](./11-directories_permissions) : A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. (**NB:** *Regular files should not be changed.*)
 12. [More directories](./12-directory_permissions) : A script that creates a directory called `my_dir` with permissions **751** in the working directory.
 13. [Change group](./13-change_group) : A script that changes the group owner to `school` for the file `hello`.
-100. [Owner and group](./100-change_owner_and_group) : A script that changes the owner to `betty` and the group owner to `vincent` for all the files and directories in the working directory.
-101. [Symbolic links](./101-symbolic_link_permissions) : A script that changes the owner and the group owner of `_hello` to `betty` and `vincent` respectively.
-102. [If only](./102-if_only) : A script that changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume`.
-103. [Star Wars](./103-Star_Wars) : A script that will play the StarWars IV episode in the terminal.
+14. [Owner and group](./100-change_owner_and_group) : A script that changes the owner to `betty` and the group owner to `vincent` for all the files and directories in the working directory.
+15. [Symbolic links](./101-symbolic_link_permissions) : A script that changes the owner and the group owner of `_hello` to `betty` and `vincent` respectively.
+16. [If only](./102-if_only) : A script that changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume`.
+17. [Star Wars](./103-Star_Wars) : A script that will play the StarWars IV episode in the terminal.
